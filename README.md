@@ -1,4 +1,4 @@
-# People Counter App
+# Currency Converter App
 
 ## Description
 
